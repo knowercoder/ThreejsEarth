@@ -1,0 +1,19 @@
+{
+  "name": "threejsearth",
+  "version": "1.0.0",
+  "description": "Interactive earth on a web page using Three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.162.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.12.0"
+  }
+}
